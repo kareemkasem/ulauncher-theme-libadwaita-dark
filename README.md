@@ -7,11 +7,11 @@
 </p>
 
 <p align="center">
+    <a href="#-credit"><b>Credit</b></a>  
+    <span>  •  </span>
     <a href="#-screenshots"><b>Screenshots</b></a>
     <span>  •  </span>
     <a href="#-installation"><b>Installation</b></a>
-    <span>  •  </span>
-    <a href="#-Credit"><b>Credit</b></a>  
 </p>
 
 ---
@@ -22,6 +22,11 @@ under `libadwaita` and GTK4.
 The colors and metrics were obtained by using the
 [GtkInspector](https://wiki.gnome.org/Projects/GTK/Inspector) tool on the GNOME
 Settings application on GNOME 43.
+
+<br>
+
+## ❯ Credit
+This theme is a fork of [leodr's amazing theme](https://github.com/leodr/ulauncher-theme-libadwaita) modified for dark mode.
 
 <br>
 
@@ -41,8 +46,3 @@ mkdir -p ~/.config/ulauncher/user-themes
 git clone https://github.com/kareemkasem/ulauncher-theme-libadwaita-dark \
   ~/.config/ulauncher/user-themes/libadwaita-dark
 ```
-
-<br>
-
-## ❯ Credit
-This theme is a fork of [leodr's amazing theme](https://github.com/leodr/ulauncher-theme-libadwaita) but modified for dark mode.
